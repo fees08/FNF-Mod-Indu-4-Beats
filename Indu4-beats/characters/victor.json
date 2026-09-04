@@ -1,0 +1,143 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-3, 6],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-3, 19],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-4, 0],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-10, 23],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-18, 29],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-40, 4],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"offsets": [-9, 25],
+			"loop": false,
+			"fps": 24,
+			"anim": "",
+			"indices": [],
+			"name": "BOYFRIEND idle dance"
+		},
+		{
+			"loop": true,
+			"offsets": [-9, 22],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BOYFRIEND miss sing left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-15, 28],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BOYFRIEND miss sing down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-16, 18],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BOYFRIEND miss sing up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-10, 26],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BOYFRIEND miss sing right",
+			"indices": []
+		},
+		{
+			"offsets": [-16, 223],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Victor idle dance"
+		},
+		{
+			"offsets": [-16, 223],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "Victor sing left"
+		},
+		{
+			"offsets": [-17, 223],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "Victor sing down"
+		},
+		{
+			"offsets": [-17, 223],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "Victor sing right"
+		},
+		{
+			"offsets": [-16, 223],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "Victor sing up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/victor",
+	"position": [0, 350],
+	"healthicon": "victor",
+	"flip_x": false,
+	"healthbar_colors": [0, 83, 148],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,27 @@
+{
+	"storyName": "schoolar week 1",
+	"difficulties": "easy",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weekend 1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"juan_menu",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Buenos Dias Esclavos!",
+			"juan",
+			[
+				255,
+				0,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "schoolar_week1"
+}

@@ -1,0 +1,9 @@
+{
+	"confirm_anim": "julian_menu ready",
+	"antialiasing": true,
+	"idle_anim": "julian_menu idle dance",
+	"position": [46, -13],
+	"scale": 0.45,
+	"image": "julian_menu",
+	"flipX": false
+}

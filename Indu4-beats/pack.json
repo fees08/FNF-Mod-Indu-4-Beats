@@ -1,0 +1,9 @@
+{
+	"name": "Indu 4 Beats",
+	"description": "3 profesores, 3 canciones, todas ambientadas en la hermosa institución del Indu 4.",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [-50, -296],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Juan idle dance"
+		},
+		{
+			"offsets": [-29, -298],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Juan sing left"
+		},
+		{
+			"offsets": [-34, -298],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Juan sing down"
+		},
+		{
+			"offsets": [-34, -298],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Juan sing up"
+		},
+		{
+			"offsets": [-35, -298],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Juan sing right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/juan",
+	"position": [0, 0],
+	"healthicon": "juan",
+	"flip_x": false,
+	"healthbar_colors": [0, 167, 98],
+	"camera_position": [230, 360],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Juan.png">
+<SubTexture name="Juan idle dance0000" x="0" y="0" width="397" height="441" frameX="-7" frameY="0" frameWidth="404" frameHeight="450" />
+<SubTexture name="Juan sing down0000" x="383" y="441" width="359" height="434" frameX="-7" frameY="-7" frameWidth="404" frameHeight="450" />
+<SubTexture name="Juan sing right0000" x="770" y="0" width="389" height="441" frameX="0" frameY="0" frameWidth="404" frameHeight="450" />
+<SubTexture name="Juan sing up0000" x="0" y="441" width="383" height="441" frameX="-7" frameY="0" frameWidth="404" frameHeight="450" />
+<SubTexture name="Juan sing left0000" x="397" y="0" width="373" height="441" frameX="-7" frameY="0" frameWidth="404" frameHeight="450" />
+</TextureAtlas>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="juan_menu.png">
+<SubTexture name="juan_menu idle dance0000" x="0" y="0" width="370" height="441" frameX="-7" frameY="0" frameWidth="404" frameHeight="450" />
+</TextureAtlas>

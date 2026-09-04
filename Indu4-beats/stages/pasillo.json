@@ -1,0 +1,72 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/stages/pasillo": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "juan",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		1080,
+		260
+	],
+	"stageUI": "",
+	"girlfriend": [
+		540,
+		240
+	],
+	"defaultZoom": 0.7,
+	"objects": [
+		{
+			"x": -355,
+			"y": -419,
+			"scale": [
+				1.15,
+				1.3
+			],
+			"image": "stages/schoolar_week1/stageback",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1.25,
+				1.3
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		205,
+		260
+	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

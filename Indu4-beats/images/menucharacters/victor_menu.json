@@ -1,0 +1,9 @@
+{
+	"idle_anim": "victor_menu idle dance",
+	"image": "victor_menu",
+	"position": [11, 111],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.55,
+	"confirm_anim": "victor_menu ready"
+}
